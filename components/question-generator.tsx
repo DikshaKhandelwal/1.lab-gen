@@ -285,7 +285,7 @@ export function QuestionGenerator() {
 
             <TabsContent value="friendly" className="mt-4">
               <div className="p-4 bg-accent/20 rounded-lg border border-accent/30">
-                <h4 className="font-medium text-accent-foreground mb-2">Friendly Mode Features</h4>
+                <h4 className="font-medium text-foreground mb-2">Friendly Mode Features</h4>
                 <ul className="text-sm text-muted-foreground space-y-1">
                   <li>• Encouraging feedback and hints</li>
                   <li>• Progressive difficulty adjustment</li>
